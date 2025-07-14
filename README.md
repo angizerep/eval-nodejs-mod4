@@ -3,12 +3,12 @@
 ## Estructura del proyecto
 
 EVAL-NODEJS-MOD4/          # Carpeta raíz del proyecto
-├─ node-tools/             # Módulo principal
-│  ├─ evaluador.js         # Lógica de evaluación de edad
-│  ├─ generador.js         # Script principal que genera info.txt
-│  └─ info.txt             # Archivo de salida generado
-├─ .gitignore              # Archivos y carpetas ignorados por Git
-└─ README.md               # Documentación del proyecto
+├── README.md           # Documentación del proyecto
+└── node-tools/         # Módulo principal
+    ├── evaluador.js    # Lógica de evaluación de edad
+    ├── generador.js    # Script principal que genera info.txt
+    └── info.txt        # Archivo de salida generado
+└── .gitignore          # Archivos y carpetas ignorados por Git
 
 
 ## ¿Qué hace el script?
